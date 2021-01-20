@@ -13,7 +13,7 @@ namespace BankaMusteriTakibi
 
         public void Delete(Musteri musteriler)
         {
-            Console.WriteLine("Sistemden başarıyla silindi ! " + musteriler.Ad +" " + musteriler.Soyad);
+            Console.WriteLine("Sistemden başarıyla silindi ! " + musteriler.Ad + " " + musteriler.Soyad);
         }
 
         public void Guncelle()
